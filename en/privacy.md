@@ -94,8 +94,8 @@ This policy will be updated when features or information handling change. Signif
 
 ## 13. Contact
 
-Developer: Reo Morishige (森重 玲生)  
+Developer: Reo Morishige (森重 玲生)
+
 Email: [leo.indieappworks+locket@gmail.com](mailto:leo.indieappworks+locket@gmail.com)
 
 [日本語](../../privacy/) · [Terms of Use](../terms/) · [Support & Legal](../)
-

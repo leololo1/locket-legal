@@ -69,8 +69,8 @@ These terms are governed by Japanese law, without limiting protections afforded 
 
 ## 11. Contact
 
-Developer: Reo Morishige (森重 玲生)  
+Developer: Reo Morishige (森重 玲生)
+
 Email: [leo.indieappworks+locket@gmail.com](mailto:leo.indieappworks+locket@gmail.com)
 
 [日本語](../../terms/) · [Support & Legal](../)
-
