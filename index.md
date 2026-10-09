@@ -5,6 +5,8 @@ title: Locket — サポート・法務情報
 
 # Locket — サポート・法務情報
 
+[English](en/)
+
 Locketは、写真から切り抜いた素材や文字を組み合わせて、ホーム画面・ロック画面用のWidgetを作成するアプリです。
 
 - [利用規約](terms/)
