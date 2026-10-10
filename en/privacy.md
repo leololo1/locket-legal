@@ -7,13 +7,13 @@ permalink: /en/privacy/
 
 # Locket Privacy Policy
 
-Effective and last updated: October 9, 2026
+Effective: October 8, 2026. Last updated: October 10, 2026.
 
 Reo Morishige (森重 玲生, the "Developer") describes below how information is handled in Locket (the "App").
 
 ## 1. Overview
 
-The App creates widgets from photo cutouts and text. Photos are processed and designs are stored on your device. The App has no account registration feature or feature that sends photos, materials, or designs to a server operated by the Developer.
+The App creates widgets from photo cutouts, text, and handwritten drawings. Photos are processed and designs are stored on your device. The App has no account registration feature or feature that sends photos, materials, or designs to a server operated by the Developer.
 
 The App includes Google AdMob banner ads and Google's User Messaging Platform (UMP) for advertising consent. A paid ad-free option is planned and cannot currently be purchased.
 
@@ -22,6 +22,7 @@ The App includes Google AdMob banner ads and Google's User Messaging Platform (U
 The App handles the following information locally to provide its features:
 
 - Photos you select or take, and cropped or cutout images, to create, display, and edit materials.
+- Handwritten drawings and stroke data, to display, edit, and reuse drawings.
 - Material and folder names, text, and design settings such as position, color, and style, to manage materials and edit or reopen designs.
 - Widget images and settings, to display designs on home and lock screens.
 - Device motion, such as tilt, while displaying supported effects, to vary reflections. Motion is not saved as an ongoing history or sent to the Developer.
@@ -56,7 +57,7 @@ Depending on SDK settings, your consent, and operating system permissions, infor
 
 The current implementation requests non-personalized ads and does not request App Tracking Transparency permission or permission to access the IDFA. Publisher first-party ID personalization is disabled. Non-personalized ads still involve information needed for ad delivery, measurement, and fraud prevention.
 
-At launch, the App requests an updated consent status from UMP and displays a consent form when required. The advertising SDK starts only when UMP indicates that ads can be requested. When privacy choices are required, Google's privacy options can be opened through **Settings → Support & Legal → Ad Privacy Settings**. Changing consent or settings does not necessarily delete information already transmitted.
+At launch, the App requests an updated consent status from UMP and displays a consent form when required. The advertising SDK starts only when UMP indicates that ads can be requested. When privacy choices are required, Google's privacy options can be opened through **Settings → Support & Legal → Ad Privacy Choices**. Changing consent or settings does not necessarily delete information already transmitted.
 
 - [Google Privacy Policy](https://policies.google.com/privacy?hl=en)
 - [Google Mobile Ads SDK data disclosure for iOS](https://developers.google.com/admob/ios/privacy/data-disclosure)

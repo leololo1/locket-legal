@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | escape }}" dir="{{ page.dir | default: 'ltr' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0; background: Canvas; color: CanvasText; font: 16px/1.75 system-ui, sans-serif; overflow-wrap: anywhere; }
+    main { max-width: 800px; margin: auto; padding: 24px 20px 64px; }
+    h1, h2, h3 { line-height: 1.35; }
+    h1 { font-size: 1.8rem; margin-block: 1.4rem; }
+    h2 { font-size: 1.3rem; margin-block-start: 2rem; }
+    a { color: LinkText; text-underline-offset: 3px; }
+    a[href^="mailto:"] { direction: ltr; unicode-bidi: isolate; display: inline-block; }
+    details { border: 1px solid GrayText; border-radius: 8px; padding: 8px 12px; }
+    summary { cursor: pointer; }
+    .languages { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px 16px; padding-block: 16px 4px; }
+    .languages a { display: block; padding: 4px; }
+    .languages a[aria-current="page"] { font-weight: 700; }
+    ul { padding-inline-start: 24px; }
+  </style>
+</head>
+<body>
+<main>
+  {% assign document_name = page.name | remove: '.md' %}
+  {% assign current_language = page.lang | default: site.lang %}
+  {% if current_language == 'en' %}{% assign current_language = 'en-US' %}{% endif %}
+  {% assign active_language = site.data.languages | where: 'code', current_language | first %}
+  <details>
+    <summary>🌐 <bdi>{{ active_language.name | default: current_language }}</bdi></summary>
+    <nav class="languages" aria-label="🌐">
+      {% for language in site.data.languages %}
+        {% assign destination = language.path %}
+        {% if document_name == 'terms' or document_name == 'privacy' %}
+          {% assign destination = destination | append: document_name | append: '/' %}
+        {% endif %}
+        <a href="{{ destination | relative_url }}" lang="{{ language.code }}" hreflang="{{ language.code }}" dir="auto"{% if language.code == current_language %} aria-current="page"{% endif %}>{{ language.name }}</a>
+      {% endfor %}
+    </nav>
+  </details>
+  {{ content }}
+</main>
+</body>
+</html>

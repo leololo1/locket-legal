@@ -7,13 +7,13 @@ permalink: /en/terms/
 
 # Locket Terms of Use
 
-Effective and last updated: October 9, 2026
+Effective: October 8, 2026. Last updated: October 10, 2026.
 
 These terms set out the conditions for using Locket (the "App"), provided by Reo Morishige (森重 玲生, the "Developer"). Please read them before using the App.
 
 ## 1. Features and requirements
 
-The App lets you import or take photos, crop and cut out subjects, manage materials, compose designs with photos and text, export images, and display widgets. Photo cutouts and saved designs are processed and stored on your device.
+The App lets you import or take photos, crop and cut out subjects, manage materials, compose designs with photos, text, and handwritten drawings, export images, and display widgets. Photo cutouts and saved designs are processed and stored on your device.
 
 The App requires an iPhone or iPad running iOS / iPadOS 26.0 or later. Widget placement, appearance, and refresh timing depend on the device and operating system. The App does not guarantee that every photo can be cut out or displayed exactly as intended.
 

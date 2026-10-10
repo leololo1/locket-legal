@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 title: Locket — サポート・法務情報
 ---
 
