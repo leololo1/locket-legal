@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket பயன்பாட்டு விதிமுறைகள்"
-lang: ta-IN
-dir: ltr
+lang: "ta-IN"
+text_direction: ltr
 permalink: /ta-IN/terms/
 ---
 

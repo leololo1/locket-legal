@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket מדיניות פרטיות"
-lang: he
-dir: rtl
+lang: "he"
+text_direction: rtl
 permalink: /he/privacy/
 ---
 

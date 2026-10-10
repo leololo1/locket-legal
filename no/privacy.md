@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Retningslinjer for personvern"
-lang: no
-dir: ltr
+lang: "no"
+text_direction: ltr
 permalink: /no/privacy/
 ---
 

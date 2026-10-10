@@ -1,50 +1,50 @@
-- {code: ar-SA, name: العربية, path: /ar-SA/}
-- {code: bn-BD, name: বাংলা, path: /bn-BD/}
-- {code: ca, name: Català, path: /ca/}
-- {code: zh-Hans, name: 简体中文, path: /zh-Hans/}
-- {code: zh-Hant, name: 繁體中文, path: /zh-Hant/}
-- {code: hr, name: Hrvatski, path: /hr/}
-- {code: cs, name: Čeština, path: /cs/}
-- {code: da, name: Dansk, path: /da/}
-- {code: nl-NL, name: Nederlands, path: /nl-NL/}
-- {code: en-AU, name: English (Australia), path: /en/}
-- {code: en-CA, name: English (Canada), path: /en/}
-- {code: en-GB, name: English (UK), path: /en/}
-- {code: en-US, name: English (US), path: /en/}
-- {code: fi, name: Suomi, path: /fi/}
-- {code: fr-FR, name: Français (France), path: /fr-FR/}
-- {code: fr-CA, name: Français (Canada), path: /fr-CA/}
-- {code: de-DE, name: Deutsch, path: /de-DE/}
-- {code: el, name: Ελληνικά, path: /el/}
-- {code: gu-IN, name: ગુજરાતી, path: /gu-IN/}
-- {code: he, name: עברית, path: /he/}
-- {code: hi, name: हिन्दी, path: /hi/}
-- {code: hu, name: Magyar, path: /hu/}
-- {code: id, name: Bahasa Indonesia, path: /id/}
-- {code: it, name: Italiano, path: /it/}
-- {code: ja, name: 日本語, path: /}
-- {code: kn-IN, name: ಕನ್ನಡ, path: /kn-IN/}
-- {code: ko, name: 한국어, path: /ko/}
-- {code: ms, name: Bahasa Melayu, path: /ms/}
-- {code: ml-IN, name: മലയാളം, path: /ml-IN/}
-- {code: mr-IN, name: मराठी, path: /mr-IN/}
-- {code: no, name: Norsk, path: /no/}
-- {code: or-IN, name: ଓଡ଼ିଆ, path: /or-IN/}
-- {code: pl, name: Polski, path: /pl/}
-- {code: pt-BR, name: Português (Brasil), path: /pt-BR/}
-- {code: pt-PT, name: Português (Portugal), path: /pt-PT/}
-- {code: pa-IN, name: ਪੰਜਾਬੀ, path: /pa-IN/}
-- {code: ro, name: Română, path: /ro/}
-- {code: ru, name: Русский, path: /ru/}
-- {code: sk, name: Slovenčina, path: /sk/}
-- {code: sl-SI, name: Slovenščina, path: /sl-SI/}
-- {code: es-MX, name: Español (México), path: /es-MX/}
-- {code: es-ES, name: Español (España), path: /es-ES/}
-- {code: sv, name: Svenska, path: /sv/}
-- {code: ta-IN, name: தமிழ், path: /ta-IN/}
-- {code: te-IN, name: తెలుగు, path: /te-IN/}
-- {code: th, name: ไทย, path: /th/}
-- {code: tr, name: Türkçe, path: /tr/}
-- {code: uk, name: Українська, path: /uk/}
-- {code: ur-PK, name: اردو, path: /ur-PK/}
-- {code: vi, name: Tiếng Việt, path: /vi/}
+- {code: "ar-SA", name: العربية, path: /ar-SA/}
+- {code: "bn-BD", name: বাংলা, path: /bn-BD/}
+- {code: "ca", name: Català, path: /ca/}
+- {code: "zh-Hans", name: 简体中文, path: /zh-Hans/}
+- {code: "zh-Hant", name: 繁體中文, path: /zh-Hant/}
+- {code: "hr", name: Hrvatski, path: /hr/}
+- {code: "cs", name: Čeština, path: /cs/}
+- {code: "da", name: Dansk, path: /da/}
+- {code: "nl-NL", name: Nederlands, path: /nl-NL/}
+- {code: "en-AU", name: English (Australia), path: /en/}
+- {code: "en-CA", name: English (Canada), path: /en/}
+- {code: "en-GB", name: English (UK), path: /en/}
+- {code: "en-US", name: English (US), path: /en/}
+- {code: "fi", name: Suomi, path: /fi/}
+- {code: "fr-FR", name: Français (France), path: /fr-FR/}
+- {code: "fr-CA", name: Français (Canada), path: /fr-CA/}
+- {code: "de-DE", name: Deutsch, path: /de-DE/}
+- {code: "el", name: Ελληνικά, path: /el/}
+- {code: "gu-IN", name: ગુજરાતી, path: /gu-IN/}
+- {code: "he", name: עברית, path: /he/}
+- {code: "hi", name: हिन्दी, path: /hi/}
+- {code: "hu", name: Magyar, path: /hu/}
+- {code: "id", name: Bahasa Indonesia, path: /id/}
+- {code: "it", name: Italiano, path: /it/}
+- {code: "ja", name: 日本語, path: /}
+- {code: "kn-IN", name: ಕನ್ನಡ, path: /kn-IN/}
+- {code: "ko", name: 한국어, path: /ko/}
+- {code: "ms", name: Bahasa Melayu, path: /ms/}
+- {code: "ml-IN", name: മലയാളം, path: /ml-IN/}
+- {code: "mr-IN", name: मराठी, path: /mr-IN/}
+- {code: "no", name: Norsk, path: /no/}
+- {code: "or-IN", name: ଓଡ଼ିଆ, path: /or-IN/}
+- {code: "pl", name: Polski, path: /pl/}
+- {code: "pt-BR", name: Português (Brasil), path: /pt-BR/}
+- {code: "pt-PT", name: Português (Portugal), path: /pt-PT/}
+- {code: "pa-IN", name: ਪੰਜਾਬੀ, path: /pa-IN/}
+- {code: "ro", name: Română, path: /ro/}
+- {code: "ru", name: Русский, path: /ru/}
+- {code: "sk", name: Slovenčina, path: /sk/}
+- {code: "sl-SI", name: Slovenščina, path: /sl-SI/}
+- {code: "es-MX", name: Español (México), path: /es-MX/}
+- {code: "es-ES", name: Español (España), path: /es-ES/}
+- {code: "sv", name: Svenska, path: /sv/}
+- {code: "ta-IN", name: தமிழ், path: /ta-IN/}
+- {code: "te-IN", name: తెలుగు, path: /te-IN/}
+- {code: "th", name: ไทย, path: /th/}
+- {code: "tr", name: Türkçe, path: /tr/}
+- {code: "uk", name: Українська, path: /uk/}
+- {code: "ur-PK", name: اردو, path: /ur-PK/}
+- {code: "vi", name: Tiếng Việt, path: /vi/}

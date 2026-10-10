@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Ondersteuning en juridische informatie"
-lang: nl-NL
-dir: ltr
+lang: "nl-NL"
+text_direction: ltr
 permalink: /nl-NL/
 ---
 

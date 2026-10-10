@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket उपयोग की शर्तें"
-lang: hi
-dir: ltr
+lang: "hi"
+text_direction: ltr
 permalink: /hi/terms/
 ---
 

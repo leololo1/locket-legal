@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Podpora a právní informace"
-lang: cs
-dir: ltr
+lang: "cs"
+text_direction: ltr
 permalink: /cs/
 ---
 

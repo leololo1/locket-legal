@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Suport i informació legal"
-lang: ca
-dir: ltr
+lang: "ca"
+text_direction: ltr
 permalink: /ca/
 ---
 

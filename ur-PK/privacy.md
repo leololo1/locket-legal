@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket رازداری کی پالیسی"
-lang: ur-PK
-dir: rtl
+lang: "ur-PK"
+text_direction: rtl
 permalink: /ur-PK/privacy/
 ---
 

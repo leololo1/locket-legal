@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket - ಬೆಂಬಲ ಮತ್ತು ಕಾನೂನು"
-lang: kn-IN
-dir: ltr
+lang: "kn-IN"
+text_direction: ltr
 permalink: /kn-IN/
 ---
 

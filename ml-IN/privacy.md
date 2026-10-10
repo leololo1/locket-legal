@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket സ്വകാര്യതാ നയം"
-lang: ml-IN
-dir: ltr
+lang: "ml-IN"
+text_direction: ltr
 permalink: /ml-IN/privacy/
 ---
 

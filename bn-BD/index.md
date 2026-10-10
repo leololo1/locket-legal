@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — সহায়তা ও আইনি তথ্য"
-lang: bn-BD
-dir: ltr
+lang: "bn-BD"
+text_direction: ltr
 permalink: /bn-BD/
 ---
 

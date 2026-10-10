@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Pravila o privatnosti aplikacije Locket"
-lang: hr
-dir: ltr
+lang: "hr"
+text_direction: ltr
 permalink: /hr/privacy/
 ---
 

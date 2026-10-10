@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — പിന്തുണയും നിയമവും"
-lang: ml-IN
-dir: ltr
+lang: "ml-IN"
+text_direction: ltr
 permalink: /ml-IN/
 ---
 

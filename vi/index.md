@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Hỗ trợ & Pháp lý"
-lang: vi
-dir: ltr
+lang: "vi"
+text_direction: ltr
 permalink: /vi/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Condizioni d'uso"
-lang: it
-dir: ltr
+lang: "it"
+text_direction: ltr
 permalink: /it/terms/
 ---
 

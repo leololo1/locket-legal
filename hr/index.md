@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Podrška i pravne informacije"
-lang: hr
-dir: ltr
+lang: "hr"
+text_direction: ltr
 permalink: /hr/
 ---
 

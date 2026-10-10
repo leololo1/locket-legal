@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy | Locket
-lang: en
+lang: "en"
 permalink: /en/privacy/
 ---
 

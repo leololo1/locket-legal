@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Zásady ochrany osobných údajov"
-lang: sk
-dir: ltr
+lang: "sk"
+text_direction: ltr
 permalink: /sk/privacy/
 ---
 

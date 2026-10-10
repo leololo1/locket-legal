@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Умови використання"
-lang: uk
-dir: ltr
+lang: "uk"
+text_direction: ltr
 permalink: /uk/terms/
 ---
 

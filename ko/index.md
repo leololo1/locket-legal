@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — 지원 및 법적 고지"
-lang: ko
-dir: ltr
+lang: "ko"
+text_direction: ltr
 permalink: /ko/
 ---
 

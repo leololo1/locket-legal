@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ഉപയോഗ നിബന്ധനകൾ"
-lang: ml-IN
-dir: ltr
+lang: "ml-IN"
+text_direction: ltr
 permalink: /ml-IN/terms/
 ---
 

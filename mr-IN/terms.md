@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket वापराच्या अटी"
-lang: mr-IN
-dir: ltr
+lang: "mr-IN"
+text_direction: ltr
 permalink: /mr-IN/terms/
 ---
 

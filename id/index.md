@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Dukungan & Legal"
-lang: id
-dir: ltr
+lang: "id"
+text_direction: ltr
 permalink: /id/
 ---
 

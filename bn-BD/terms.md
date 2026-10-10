@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ব্যবহারের শর্তাবলী"
-lang: bn-BD
-dir: ltr
+lang: "bn-BD"
+text_direction: ltr
 permalink: /bn-BD/terms/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket 使用条款"
-lang: zh-Hans
-dir: ltr
+lang: "zh-Hans"
+text_direction: ltr
 permalink: /zh-Hans/terms/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Điều khoản sử dụng"
-lang: vi
-dir: ltr
+lang: "vi"
+text_direction: ltr
 permalink: /vi/terms/
 ---
 

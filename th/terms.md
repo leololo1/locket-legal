@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket เงื่อนไขการใช้งาน"
-lang: th
-dir: ltr
+lang: "th"
+text_direction: ltr
 permalink: /th/terms/
 ---
 

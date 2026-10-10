@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ಬಳಕೆಯ ನಿಯಮಗಳು"
-lang: kn-IN
-dir: ltr
+lang: "kn-IN"
+text_direction: ltr
 permalink: /kn-IN/terms/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ।"
-lang: or-IN
-dir: ltr
+lang: "or-IN"
+text_direction: ltr
 permalink: /or-IN/terms/
 ---
 

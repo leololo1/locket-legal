@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Поддержка и юридическая информация"
-lang: ru
-dir: ltr
+lang: "ru"
+text_direction: ltr
 permalink: /ru/
 ---
 

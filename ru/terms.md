@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Условия использования"
-lang: ru
-dir: ltr
+lang: "ru"
+text_direction: ltr
 permalink: /ru/terms/
 ---
 

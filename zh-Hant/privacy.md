@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket 隱私權政策"
-lang: zh-Hant
-dir: ltr
+lang: "zh-Hant"
+text_direction: ltr
 permalink: /zh-Hant/privacy/
 ---
 

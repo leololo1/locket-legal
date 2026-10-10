@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket గోప్యతా విధానం"
-lang: te-IN
-dir: ltr
+lang: "te-IN"
+text_direction: ltr
 permalink: /te-IN/privacy/
 ---
 

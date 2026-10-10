@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Felhasználási feltételek"
-lang: hu
-dir: ltr
+lang: "hu"
+text_direction: ltr
 permalink: /hu/terms/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Zásady ochrany osobních údajů aplikace Locket"
-lang: cs
-dir: ltr
+lang: "cs"
+text_direction: ltr
 permalink: /cs/privacy/
 ---
 

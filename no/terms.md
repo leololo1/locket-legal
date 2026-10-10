@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Vilkår for bruk"
-lang: no
-dir: ltr
+lang: "no"
+text_direction: ltr
 permalink: /no/terms/
 ---
 

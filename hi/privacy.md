@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket गोपनीयता नीति"
-lang: hi
-dir: ltr
+lang: "hi"
+text_direction: ltr
 permalink: /hi/privacy/
 ---
 

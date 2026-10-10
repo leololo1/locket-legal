@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket গোপনীয়তা নীতি"
-lang: bn-BD
-dir: ltr
+lang: "bn-BD"
+text_direction: ltr
 permalink: /bn-BD/privacy/
 ---
 

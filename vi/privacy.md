@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Chính sách quyền riêng tư"
-lang: vi
-dir: ltr
+lang: "vi"
+text_direction: ltr
 permalink: /vi/privacy/
 ---
 

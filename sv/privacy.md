@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Integritetspolicy"
-lang: sv
-dir: ltr
+lang: "sv"
+text_direction: ltr
 permalink: /sv/privacy/
 ---
 

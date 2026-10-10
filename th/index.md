@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — การสนับสนุนและกฎหมาย"
-lang: th
-dir: ltr
+lang: "th"
+text_direction: ltr
 permalink: /th/
 ---
 

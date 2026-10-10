@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Use | Locket
-lang: en
+lang: "en"
 permalink: /en/terms/
 ---
 

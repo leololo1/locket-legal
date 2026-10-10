@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — ஆதரவு & சட்டபூர்வமானது"
-lang: ta-IN
-dir: ltr
+lang: "ta-IN"
+text_direction: ltr
 permalink: /ta-IN/
 ---
 

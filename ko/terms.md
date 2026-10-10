@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket 이용약관"
-lang: ko
-dir: ltr
+lang: "ko"
+text_direction: ltr
 permalink: /ko/terms/
 ---
 

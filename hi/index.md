@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — सहायता और कानूनी जानकारी"
-lang: hi
-dir: ltr
+lang: "hi"
+text_direction: ltr
 permalink: /hi/
 ---
 

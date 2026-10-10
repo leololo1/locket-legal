@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Ketentuan Penggunaan"
-lang: id
-dir: ltr
+lang: "id"
+text_direction: ltr
 permalink: /id/terms/
 ---
 

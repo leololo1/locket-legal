@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — આધાર અને કાનૂની"
-lang: gu-IN
-dir: ltr
+lang: "gu-IN"
+text_direction: ltr
 permalink: /gu-IN/
 ---
 

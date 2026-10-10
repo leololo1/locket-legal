@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — ਮੱਦਦ ਅਤੇ ਕਾਨੂੰਨੀ"
-lang: pa-IN
-dir: ltr
+lang: "pa-IN"
+text_direction: ltr
 permalink: /pa-IN/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Πολιτική απορρήτου του Locket"
-lang: el
-dir: ltr
+lang: "el"
+text_direction: ltr
 permalink: /el/privacy/
 ---
 

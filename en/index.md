@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Locket — Support & Legal
-lang: en
+lang: "en"
 permalink: /en/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Podmínky použití aplikace Locket"
-lang: cs
-dir: ltr
+lang: "cs"
+text_direction: ltr
 permalink: /cs/terms/
 ---
 

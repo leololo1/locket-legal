@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Podmienky používania"
-lang: sk
-dir: ltr
+lang: "sk"
+text_direction: ltr
 permalink: /sk/terms/
 ---
 

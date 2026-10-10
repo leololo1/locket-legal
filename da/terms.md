@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Brugervilkår for Locket"
-lang: da
-dir: ltr
+lang: "da"
+text_direction: ltr
 permalink: /da/terms/
 ---
 

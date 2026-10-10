@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket-sovelluksen käyttöehdot"
-lang: fi
-dir: ltr
+lang: "fi"
+text_direction: ltr
 permalink: /fi/terms/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — תמיכה ומידע משפטי"
-lang: he
-dir: rtl
+lang: "he"
+text_direction: rtl
 permalink: /he/
 ---
 

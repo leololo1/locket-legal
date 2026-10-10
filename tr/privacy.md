@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Gizlilik Politikası"
-lang: tr
-dir: ltr
+lang: "tr"
+text_direction: ltr
 permalink: /tr/privacy/
 ---
 

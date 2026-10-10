@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket தனியுரிமைக் கொள்கை"
-lang: ta-IN
-dir: ltr
+lang: "ta-IN"
+text_direction: ltr
 permalink: /ta-IN/privacy/
 ---
 

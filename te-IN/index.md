@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — మద్దతు & చట్టపరమైన"
-lang: te-IN
-dir: ltr
+lang: "te-IN"
+text_direction: ltr
 permalink: /te-IN/
 ---
 

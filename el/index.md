@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Υποστήριξη και νομικές πληροφορίες"
-lang: el
-dir: ltr
+lang: "el"
+text_direction: ltr
 permalink: /el/
 ---
 

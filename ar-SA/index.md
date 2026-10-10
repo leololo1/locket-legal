@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — الدعم والشؤون القانونية"
-lang: ar-SA
-dir: rtl
+lang: "ar-SA"
+text_direction: rtl
 permalink: /ar-SA/
 ---
 

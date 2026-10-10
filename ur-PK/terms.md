@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket استعمال کی شرائط"
-lang: ur-PK
-dir: rtl
+lang: "ur-PK"
+text_direction: rtl
 permalink: /ur-PK/terms/
 ---
 

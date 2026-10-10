@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ଗୋପନୀୟତା ନୀତି।"
-lang: or-IN
-dir: ltr
+lang: "or-IN"
+text_direction: ltr
 permalink: /or-IN/privacy/
 ---
 

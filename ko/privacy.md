@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket 개인 정보 보호 정책"
-lang: ko
-dir: ltr
+lang: "ko"
+text_direction: ltr
 permalink: /ko/privacy/
 ---
 

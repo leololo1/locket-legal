@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Политика конфиденциальности"
-lang: ru
-dir: ltr
+lang: "ru"
+text_direction: ltr
 permalink: /ru/privacy/
 ---
 

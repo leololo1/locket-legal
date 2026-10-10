@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
-lang: pa-IN
-dir: ltr
+lang: "pa-IN"
+text_direction: ltr
 permalink: /pa-IN/terms/
 ---
 

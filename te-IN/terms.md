@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket ఉపయోగ నిబంధనలు"
-lang: te-IN
-dir: ltr
+lang: "te-IN"
+text_direction: ltr
 permalink: /te-IN/terms/
 ---
 

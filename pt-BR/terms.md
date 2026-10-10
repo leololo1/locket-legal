@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Termos de Uso"
-lang: pt-BR
-dir: ltr
+lang: "pt-BR"
+text_direction: ltr
 permalink: /pt-BR/terms/
 ---
 

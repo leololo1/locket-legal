@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Política de privadesa de Locket"
-lang: ca
-dir: ltr
+lang: "ca"
+text_direction: ltr
 permalink: /ca/privacy/
 ---
 

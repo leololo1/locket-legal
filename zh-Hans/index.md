@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — 支持与法律信息"
-lang: zh-Hans
-dir: ltr
+lang: "zh-Hans"
+text_direction: ltr
 permalink: /zh-Hans/
 ---
 

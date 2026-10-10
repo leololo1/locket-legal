@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Politica de confidențialitate"
-lang: ro
-dir: ltr
+lang: "ro"
+text_direction: ltr
 permalink: /ro/privacy/
 ---
 

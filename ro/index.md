@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Suport & informații legale"
-lang: ro
-dir: ltr
+lang: "ro"
+text_direction: ltr
 permalink: /ro/
 ---
 

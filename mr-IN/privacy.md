@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket गोपनीयता धोरण"
-lang: mr-IN
-dir: ltr
+lang: "mr-IN"
+text_direction: ltr
 permalink: /mr-IN/privacy/
 ---
 

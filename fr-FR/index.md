@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Assistance et mentions légales"
-lang: fr-FR
-dir: ltr
+lang: "fr-FR"
+text_direction: ltr
 permalink: /fr-FR/
 ---
 

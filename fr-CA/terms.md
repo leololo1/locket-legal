@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Conditions d’utilisation de Locket"
-lang: fr-CA
-dir: ltr
+lang: "fr-CA"
+text_direction: ltr
 permalink: /fr-CA/terms/
 ---
 

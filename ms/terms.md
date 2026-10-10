@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Syarat Penggunaan"
-lang: ms
-dir: ltr
+lang: "ms"
+text_direction: ltr
 permalink: /ms/terms/
 ---
 

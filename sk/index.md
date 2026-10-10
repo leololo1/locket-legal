@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — Podpora a právne informácie"
-lang: sk
-dir: ltr
+lang: "sk"
+text_direction: ltr
 permalink: /sk/
 ---
 

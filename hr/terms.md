@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Uvjeti korištenja aplikacije Locket"
-lang: hr
-dir: ltr
+lang: "hr"
+text_direction: ltr
 permalink: /hr/terms/
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket — 支援與法律資訊"
-lang: zh-Hant
-dir: ltr
+lang: "zh-Hant"
+text_direction: ltr
 permalink: /zh-Hant/
 ---
 

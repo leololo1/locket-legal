@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Όροι χρήσης του Locket"
-lang: el
-dir: ltr
+lang: "el"
+text_direction: ltr
 permalink: /el/terms/
 ---
 

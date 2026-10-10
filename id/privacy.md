@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Locket Kebijakan Privasi"
-lang: id
-dir: ltr
+lang: "id"
+text_direction: ltr
 permalink: /id/privacy/
 ---
 
