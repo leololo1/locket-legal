@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Suport i informació legal"
+title: "Accent — Suport i informació legal"
 lang: "ca"
 text_direction: ltr
 permalink: /ca/
 ---
 
-# Locket — Suport i informació legal
+# Accent — Suport i informació legal
 
 Creeu ginys per a la pantalla d'inici i la pantalla de bloqueig a partir de retalls de fotos i text, directament al dispositiu.
 

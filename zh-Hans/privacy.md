@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket 隐私政策"
+title: "Accent 隐私政策"
 lang: "zh-Hans"
 text_direction: ltr
 permalink: /zh-Hans/privacy/
 ---
 
-# Locket 隐私政策
+# Accent 隐私政策
 
 生效日期：2026年10月8日。最后更新：2026年10月10日。
 
-Reo Morishige(森重 玲生，“开发者”)下面描述了如何在Locket(“应用程序”)中处理信息。
+Reo Morishige(森重 玲生，“开发者”)下面描述了如何在Accent(“应用程序”)中处理信息。
 
 ## 1.概述
 

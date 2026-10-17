@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Privacy Policy | Locket
+title: Privacy Policy | Accent
 lang: "en"
 permalink: /en/privacy/
 ---
 
-# Locket Privacy Policy
+# Accent Privacy Policy
 
 Effective: October 8, 2026. Last updated: October 10, 2026.
 
-Reo Morishige (森重 玲生, the "Developer") describes below how information is handled in Locket (the "App").
+Reo Morishige (森重 玲生, the "Developer") describes below how information is handled in Accent (the "App").
 
 ## 1. Overview
 

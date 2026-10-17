@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Adatvédelmi szabályzat"
+title: "Accent Adatvédelmi szabályzat"
 lang: "hu"
 text_direction: ltr
 permalink: /hu/privacy/
 ---
 
-# Locket Adatvédelmi szabályzat
+# Accent Adatvédelmi szabályzat
 
 Hatályos: 2026. október 8. Utolsó frissítés: 2026. október 10.
 
-Reo Morishige (森重 玲生, a "Fejlesztő") az alábbiakban ismerteti, hogyan kezeli az információkat a Locket (az "alkalmazás").
+Reo Morishige (森重 玲生, a "Fejlesztő") az alábbiakban ismerteti, hogyan kezeli az információkat a Accent (az "alkalmazás").
 
 ## 1. Áttekintés
 

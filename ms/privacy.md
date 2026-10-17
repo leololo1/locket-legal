@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Dasar Privasi"
+title: "Accent Dasar Privasi"
 lang: "ms"
 text_direction: ltr
 permalink: /ms/privacy/
 ---
 
-# Locket Dasar Privasi
+# Accent Dasar Privasi
 
 Berkuatkuasa: 8 Oktober 2026. Kemas kini terakhir: 10 Oktober 2026.
 
-Reo Morishige (森重 玲生, "Pembangun") menerangkan di bawah cara maklumat dikendalikan dalam Locket ("Apl").
+Reo Morishige (森重 玲生, "Pembangun") menerangkan di bawah cara maklumat dikendalikan dalam Accent ("Apl").
 
 ## 1. Gambaran Keseluruhan
 

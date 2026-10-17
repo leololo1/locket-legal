@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket — Chính sách quyền riêng tư"
+title: "Accent — Chính sách quyền riêng tư"
 lang: "vi"
 text_direction: ltr
 permalink: /vi/privacy/
 ---
 
-# Locket — Chính sách quyền riêng tư
+# Accent — Chính sách quyền riêng tư
 
 Có hiệu lực: ngày 8 tháng 10 năm 2026. Cập nhật lần cuối: ngày 10 tháng 10 năm 2026.
 
-Reo Morishige (森重 玲生, "Nhà phát triển") mô tả bên dưới cách xử lý thông tin trong Locket ("Ứng dụng").
+Reo Morishige (森重 玲生, "Nhà phát triển") mô tả bên dưới cách xử lý thông tin trong Accent ("Ứng dụng").
 
 ## 1. Tổng quan
 

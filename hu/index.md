@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Támogatás és jogi információk"
+title: "Accent — Támogatás és jogi információk"
 lang: "hu"
 text_direction: ltr
 permalink: /hu/
 ---
 
-# Locket — Támogatás és jogi információk
+# Accent — Támogatás és jogi információk
 
 Készítsen widgeteket fotókivágásokból és szövegből a Főképernyőre és a zárolási képernyőre, közvetlenül az eszközén.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Support und rechtliche Informationen"
+title: "Accent — Support und rechtliche Informationen"
 lang: "de-DE"
 text_direction: ltr
 permalink: /de-DE/
 ---
 
-# Locket — Support und rechtliche Informationen
+# Accent — Support und rechtliche Informationen
 
 Erstelle direkt auf deinem Gerät Widgets für Home-Bildschirm und Sperrbildschirm aus freigestellten Fotos und Text.
 

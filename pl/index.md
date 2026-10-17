@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Pomoc i informacje prawne"
+title: "Accent — Pomoc i informacje prawne"
 lang: "pl"
 text_direction: ltr
 permalink: /pl/
 ---
 
-# Locket — Pomoc i informacje prawne
+# Accent — Pomoc i informacje prawne
 
 Twórz widżety ekranu głównego i ekranu blokady z wycinków zdjęć i tekstu bezpośrednio na swoim urządzeniu.
 

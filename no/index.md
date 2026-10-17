@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Støtte & juridisk"
+title: "Accent — Støtte & juridisk"
 lang: "no"
 text_direction: ltr
 permalink: /no/
 ---
 
-# Locket — Støtte & juridisk
+# Accent — Støtte & juridisk
 
 Lag widgeter for Hjem-skjerm og låseskjerm fra bildeutskjæringer og tekst, rett på enheten din.
 

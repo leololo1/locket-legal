@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — ସହାୟତା ଓ ଆଇନଗତ ସୂଚନା"
+title: "Accent — ସହାୟତା ଓ ଆଇନଗତ ସୂଚନା"
 lang: "or-IN"
 text_direction: ltr
 permalink: /or-IN/
 ---
 
-# Locket — ସହାୟତା ଓ ଆଇନଗତ ସୂଚନା
+# Accent — ସହାୟତା ଓ ଆଇନଗତ ସୂଚନା
 
 ଆପଣଙ୍କ ଡିଭାଇସରେ ଫଟୋ କଟଆଉଟ୍ ଏବଂ ପାଠ୍ୟରୁ ହୋମ ସ୍କ୍ରିନ ଏବଂ ଲକ୍ ସ୍କ୍ରିନ୍ ୱିଜେଟ୍ ସୃଷ୍ଟି କରନ୍ତୁ।
 

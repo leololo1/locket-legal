@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket — Integritetspolicy"
+title: "Accent — Integritetspolicy"
 lang: "sv"
 text_direction: ltr
 permalink: /sv/privacy/
 ---
 
-# Locket — Integritetspolicy
+# Accent — Integritetspolicy
 
 Gäller: 8 oktober 2026. Senast uppdaterad: 10 oktober 2026.
 
-Reo Morishige (森重 玲生, "Utvecklaren") beskriver nedan hur information hanteras i Locket ("Appen").
+Reo Morishige (森重 玲生, "Utvecklaren") beskriver nedan hur information hanteras i Accent ("Appen").
 
 ## 1. Översikt
 

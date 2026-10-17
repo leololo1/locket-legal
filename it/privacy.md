@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Informativa sulla privacy"
+title: "Accent Informativa sulla privacy"
 lang: "it"
 text_direction: ltr
 permalink: /it/privacy/
 ---
 
-# Locket Informativa sulla privacy
+# Accent Informativa sulla privacy
 
 Validità: 8 ottobre 2026. Ultimo aggiornamento: 10 ottobre 2026.
 
-Reo Morishige (森重 玲生, lo "Sviluppatore") descrive di seguito come vengono gestite le informazioni in Locket (l'"App").
+Reo Morishige (森重 玲生, lo "Sviluppatore") descrive di seguito come vengono gestite le informazioni in Accent (l'"App").
 
 ## 1. Panoramica
 

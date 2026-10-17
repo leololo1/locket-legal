@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Ondersteuning en juridische informatie"
+title: "Accent — Ondersteuning en juridische informatie"
 lang: "nl-NL"
 text_direction: ltr
 permalink: /nl-NL/
 ---
 
-# Locket — Ondersteuning en juridische informatie
+# Accent — Ondersteuning en juridische informatie
 
 Maak rechtstreeks op uw apparaat widgets voor het beginscherm en toegangsscherm met uitgeknipte fotomotieven en tekst.
 

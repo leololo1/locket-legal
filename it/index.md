@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Supporto e informazioni legali"
+title: "Accent — Supporto e informazioni legali"
 lang: "it"
 text_direction: ltr
 permalink: /it/
 ---
 
-# Locket — Supporto e informazioni legali
+# Accent — Supporto e informazioni legali
 
 Crea widget per la schermata Home e la schermata di blocco da ritagli di foto e testo, direttamente sul tuo dispositivo.
 

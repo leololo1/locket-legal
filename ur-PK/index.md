@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — معاونت اور قانونی"
+title: "Accent — معاونت اور قانونی"
 lang: "ur-PK"
 text_direction: rtl
 permalink: /ur-PK/
 ---
 
-# Locket — معاونت اور قانونی
+# Accent — معاونت اور قانونی
 
 اپنے آلے پر ہی فوٹو کٹ آؤٹ اور ٹیکسٹ سے ہوم اسکرین اور لاک اسکرین ویجیٹس بنائیں۔
 

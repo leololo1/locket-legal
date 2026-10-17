@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket 隱私權政策"
+title: "Accent 隱私權政策"
 lang: "zh-Hant"
 text_direction: ltr
 permalink: /zh-Hant/privacy/
 ---
 
-# Locket 隱私權政策
+# Accent 隱私權政策
 
 生效日期：2026年10月8日。最後更新：2026年10月10日。
 
-Reo Morishige(森重 玲生，「開發者」)下面描述如何在Locket(“應用程式”)中處理資訊。
+Reo Morishige(森重 玲生，「開發者」)下面描述如何在Accent(“應用程式”)中處理資訊。
 
 ## 1.概述
 

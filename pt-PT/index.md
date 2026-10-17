@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Suporte & legal"
+title: "Accent — Suporte & legal"
 lang: "pt-PT"
 text_direction: ltr
 permalink: /pt-PT/
 ---
 
-# Locket — Suporte & legal
+# Accent — Suporte & legal
 
 Crie widgets do ecrã principal e do ecrã de bloqueio a partir de recortes de fotografias e texto, diretamente no seu dispositivo.
 

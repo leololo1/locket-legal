@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Privacybeleid van Locket"
+title: "Privacybeleid van Accent"
 lang: "nl-NL"
 text_direction: ltr
 permalink: /nl-NL/privacy/
 ---
 
-# Privacybeleid van Locket
+# Privacybeleid van Accent
 
 Van kracht sinds: 8 oktober 2026. Laatst bijgewerkt: 10 oktober 2026.
 
-Reo Morishige (森重 玲生, de "Ontwikkelaar") beschrijft hieronder hoe informatie wordt verwerkt in Locket (de "App").
+Reo Morishige (森重 玲生, de "Ontwikkelaar") beschrijft hieronder hoe informatie wordt verwerkt in Accent (de "App").
 
 ## 1. Overzicht
 

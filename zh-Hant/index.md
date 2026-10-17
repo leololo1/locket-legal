@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — 支援與法律資訊"
+title: "Accent — 支援與法律資訊"
 lang: "zh-Hant"
 text_direction: ltr
 permalink: /zh-Hant/
 ---
 
-# Locket — 支援與法律資訊
+# Accent — 支援與法律資訊
 
 直接在您的裝置上從照片剪下和文字建立主螢幕和鎖定螢幕小工具。
 

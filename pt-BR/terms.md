@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket — Termos de Uso"
+title: "Accent — Termos de Uso"
 lang: "pt-BR"
 text_direction: ltr
 permalink: /pt-BR/terms/
 ---
 
-# Locket — Termos de Uso
+# Accent — Termos de Uso
 
 Em vigor: 8 de outubro de 2026. Última atualização: 10 de outubro de 2026.
 
-Estes termos estabelecem as condições de uso do Locket (o "Aplicativo"), fornecido por Reo Morishige (森重 玲生, o "Desenvolvedor"). Por favor, leia-os antes de usar o aplicativo.
+Estes termos estabelecem as condições de uso do Accent (o "Aplicativo"), fornecido por Reo Morishige (森重 玲生, o "Desenvolvedor"). Por favor, leia-os antes de usar o aplicativo.
 
 ## 1. Recursos e requisitos
 

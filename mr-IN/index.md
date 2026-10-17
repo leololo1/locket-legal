@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — समर्थन & कायदेशीर"
+title: "Accent — समर्थन & कायदेशीर"
 lang: "mr-IN"
 text_direction: ltr
 permalink: /mr-IN/
 ---
 
-# Locket — समर्थन & कायदेशीर
+# Accent — समर्थन & कायदेशीर
 
 फोटो कटआउट आणि मजकूर वापरून होम स्क्रीन व लॉक स्क्रीनसाठी विजेट थेट तुमच्या डिव्हाइसवर तयार करा.
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Podmienky používania"
+title: "Accent Podmienky používania"
 lang: "sk"
 text_direction: ltr
 permalink: /sk/terms/
 ---
 
-# Locket Podmienky používania
+# Accent Podmienky používania
 
 Účinné: 8. októbra 2026. Posledná aktualizácia: 10. októbra 2026.
 
-Tieto podmienky stanovujú podmienky používania Locket („Aplikácia“), ktorú poskytuje Reo Morishige (森重 玲生, „Vývojár“). Pred použitím aplikácie si ich prečítajte.
+Tieto podmienky stanovujú podmienky používania Accent („Aplikácia“), ktorú poskytuje Reo Morishige (森重 玲生, „Vývojár“). Pred použitím aplikácie si ich prečítajte.
 
 ## 1. Funkcie a požiadavky
 

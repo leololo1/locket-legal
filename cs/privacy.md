@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Zásady ochrany osobních údajů aplikace Locket"
+title: "Zásady ochrany osobních údajů aplikace Accent"
 lang: "cs"
 text_direction: ltr
 permalink: /cs/privacy/
 ---
 
-# Zásady ochrany osobních údajů aplikace Locket
+# Zásady ochrany osobních údajů aplikace Accent
 
 Účinnost: 8. října 2026. Poslední aktualizace: 10. října 2026.
 
-Reo Morishige (森重 玲生, „Vývojář“) níže popisuje, jak je s informacemi nakládáno v Locket (dále jen „Aplikace“).
+Reo Morishige (森重 玲生, „Vývojář“) níže popisuje, jak je s informacemi nakládáno v Accent (dále jen „Aplikace“).
 
 ## 1. Přehled
 

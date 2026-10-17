@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Gebruiksvoorwaarden van Locket"
+title: "Gebruiksvoorwaarden van Accent"
 lang: "nl-NL"
 text_direction: ltr
 permalink: /nl-NL/terms/
 ---
 
-# Gebruiksvoorwaarden van Locket
+# Gebruiksvoorwaarden van Accent
 
 Van kracht sinds: 8 oktober 2026. Laatst bijgewerkt: 10 oktober 2026.
 
-Deze voorwaarden regelen het gebruik van Locket (de ‘App’), aangeboden door Reo Morishige (森重 玲生, de ‘Ontwikkelaar’). Lees ze voordat u de App gebruikt.
+Deze voorwaarden regelen het gebruik van Accent (de ‘App’), aangeboden door Reo Morishige (森重 玲生, de ‘Ontwikkelaar’). Lees ze voordat u de App gebruikt.
 
 ## 1. Kenmerken en vereisten
 

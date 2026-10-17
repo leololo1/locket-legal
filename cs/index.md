@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Podpora a právní informace"
+title: "Accent — Podpora a právní informace"
 lang: "cs"
 text_direction: ltr
 permalink: /cs/
 ---
 
-# Locket — Podpora a právní informace
+# Accent — Podpora a právní informace
 
 Vytvářejte přímo na svém zařízení widgety pro plochu a zamknutou obrazovku z výřezů fotografií a textu.
 

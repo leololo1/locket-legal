@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Termeni de utilizare"
+title: "Accent Termeni de utilizare"
 lang: "ro"
 text_direction: ltr
 permalink: /ro/terms/
 ---
 
-# Locket Termeni de utilizare
+# Accent Termeni de utilizare
 
 În vigoare: 8 octombrie 2026. Ultima actualizare: 10 octombrie 2026.
 
-Acești termeni stabilesc condițiile de utilizare a Locket („Aplicația”), furnizată de Reo Morishige (森重 玲生, „Dezvoltatorul”). Vă rugăm să le citiți înainte de a utiliza aplicația.
+Acești termeni stabilesc condițiile de utilizare a Accent („Aplicația”), furnizată de Reo Morishige (森重 玲生, „Dezvoltatorul”). Vă rugăm să le citiți înainte de a utiliza aplicația.
 
 ## 1. Caracteristici și cerințe
 

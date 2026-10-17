@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Tuki ja lakiasiat"
+title: "Accent — Tuki ja lakiasiat"
 lang: "fi"
 text_direction: ltr
 permalink: /fi/
 ---
 
-# Locket — Tuki ja lakiasiat
+# Accent — Tuki ja lakiasiat
 
 Luo omalla laitteellasi widgetejä Koti-valikkoon ja lukittuun näyttöön valokuvista irrotetuista kohteista ja tekstistä.
 

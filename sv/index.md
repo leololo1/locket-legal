@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Support & juridik"
+title: "Accent — Support & juridik"
 lang: "sv"
 text_direction: ltr
 permalink: /sv/
 ---
 
-# Locket — Support & juridik
+# Accent — Support & juridik
 
 Skapa startskärms- och låsskärmswidgetar från fotoutskärningar och text direkt på din enhet.
 

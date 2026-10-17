@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — 支持与法律信息"
+title: "Accent — 支持与法律信息"
 lang: "zh-Hans"
 text_direction: ltr
 permalink: /zh-Hans/
 ---
 
-# Locket — 支持与法律信息
+# Accent — 支持与法律信息
 
 直接在您的设备上从照片剪切和文本创建主屏幕和锁定屏幕小部件。
 

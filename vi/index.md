@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Hỗ trợ & Pháp lý"
+title: "Accent — Hỗ trợ & Pháp lý"
 lang: "vi"
 text_direction: ltr
 permalink: /vi/
 ---
 
-# Locket — Hỗ trợ & Pháp lý
+# Accent — Hỗ trợ & Pháp lý
 
 Tạo các tiện ích trên màn hình chính và màn hình khóa từ các ảnh cắt ra và văn bản, ngay trên thiết bị của bạn.
 

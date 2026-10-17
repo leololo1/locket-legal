@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Gizlilik Politikası"
+title: "Accent Gizlilik Politikası"
 lang: "tr"
 text_direction: ltr
 permalink: /tr/privacy/
 ---
 
-# Locket Gizlilik Politikası
+# Accent Gizlilik Politikası
 
 Geçerlilik Tarihi: 8 Ekim 2026. Son güncelleme tarihi: 10 Ekim 2026.
 
-Reo Morishige (森重 玲生, "Geliştirici") aşağıda bilgilerin Locket'de ("Uygulama") nasıl işlendiğini açıklamaktadır.
+Reo Morishige (森重 玲生, "Geliştirici") aşağıda bilgilerin Accent'de ("Uygulama") nasıl işlendiğini açıklamaktadır.
 
 ## 1. Genel Bakış
 

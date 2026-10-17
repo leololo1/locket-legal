@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Politica de confidențialitate"
+title: "Accent Politica de confidențialitate"
 lang: "ro"
 text_direction: ltr
 permalink: /ro/privacy/
 ---
 
-# Locket Politica de confidențialitate
+# Accent Politica de confidențialitate
 
 În vigoare: 8 octombrie 2026. Ultima actualizare: 10 octombrie 2026.
 
-Reo Morishige (森重 玲生, „Dezvoltatorul”) descrie mai jos modul în care sunt gestionate informațiile în Locket („Aplicația”).
+Reo Morishige (森重 玲生, „Dezvoltatorul”) descrie mai jos modul în care sunt gestionate informațiile în Accent („Aplicația”).
 
 ## 1. Prezentare generală
 

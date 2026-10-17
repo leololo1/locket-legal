@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — ਮੱਦਦ ਅਤੇ ਕਾਨੂੰਨੀ"
+title: "Accent — ਮੱਦਦ ਅਤੇ ਕਾਨੂੰਨੀ"
 lang: "pa-IN"
 text_direction: ltr
 permalink: /pa-IN/
 ---
 
-# Locket — ਮੱਦਦ ਅਤੇ ਕਾਨੂੰਨੀ
+# Accent — ਮੱਦਦ ਅਤੇ ਕਾਨੂੰਨੀ
 
 ਆਪਣੀ ਡਿਵਾਈਸ 'ਤੇ, ਫੋਟੋ ਕਟਆਊਟ ਅਤੇ ਟੈਕਸਟ ਤੋਂ ਹੋਮ ਸਕ੍ਰੀਨ ਅਤੇ ਲੌਕ ਸਕ੍ਰੀਨ ਵਿਜੇਟਸ ਬਣਾਓ।
 

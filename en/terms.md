@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Terms of Use | Locket
+title: Terms of Use | Accent
 lang: "en"
 permalink: /en/terms/
 ---
 
-# Locket Terms of Use
+# Accent Terms of Use
 
 Effective: October 8, 2026. Last updated: October 10, 2026.
 
-These terms set out the conditions for using Locket (the "App"), provided by Reo Morishige (森重 玲生, the "Developer"). Please read them before using the App.
+These terms set out the conditions for using Accent (the "App"), provided by Reo Morishige (森重 玲生, the "Developer"). Please read them before using the App.
 
 ## 1. Features and requirements
 

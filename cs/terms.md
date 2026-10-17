@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Podmínky použití aplikace Locket"
+title: "Podmínky použití aplikace Accent"
 lang: "cs"
 text_direction: ltr
 permalink: /cs/terms/
 ---
 
-# Podmínky použití aplikace Locket
+# Podmínky použití aplikace Accent
 
 Účinnost: 8. října 2026. Poslední aktualizace: 10. října 2026.
 
-Tyto podmínky upravují používání aplikace Locket (dále jen „aplikace“), kterou poskytuje Reo Morishige (森重 玲生, dále jen „vývojář“). Před použitím aplikace si je přečtěte.
+Tyto podmínky upravují používání aplikace Accent (dále jen „aplikace“), kterou poskytuje Reo Morishige (森重 玲生, dále jen „vývojář“). Před použitím aplikace si je přečtěte.
 
 ## 1. Vlastnosti a požadavky
 

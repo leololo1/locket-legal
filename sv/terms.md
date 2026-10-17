@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Användarvillkor"
+title: "Accent Användarvillkor"
 lang: "sv"
 text_direction: ltr
 permalink: /sv/terms/
 ---
 
-# Locket Användarvillkor
+# Accent Användarvillkor
 
 Gäller: 8 oktober 2026. Senast uppdaterad: 10 oktober 2026.
 
-Dessa villkor anger villkoren för att använda Locket ("Appen"), tillhandahållen av Reo Morishige (森重 玲生, "Utvecklaren"). Läs dem innan du använder appen.
+Dessa villkor anger villkoren för att använda Accent ("Appen"), tillhandahållen av Reo Morishige (森重 玲生, "Utvecklaren"). Läs dem innan du använder appen.
 
 ## 1. Funktioner och krav
 

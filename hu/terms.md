@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Felhasználási feltételek"
+title: "Accent Felhasználási feltételek"
 lang: "hu"
 text_direction: ltr
 permalink: /hu/terms/
 ---
 
-# Locket Felhasználási feltételek
+# Accent Felhasználási feltételek
 
 Hatályos: 2026. október 8. Utolsó frissítés: 2026. október 10.
 
-Ezek a feltételek meghatározzák a Reo Morishige (森重 玲生, a "Fejlesztő") által biztosított Locket (az "alkalmazás") használatának feltételeit. Kérjük, olvassa el ezeket az alkalmazás használata előtt.
+Ezek a feltételek meghatározzák a Reo Morishige (森重 玲生, a "Fejlesztő") által biztosított Accent (az "alkalmazás") használatának feltételeit. Kérjük, olvassa el ezeket az alkalmazás használata előtt.
 
 ## 1. Funkciók és követelmények
 

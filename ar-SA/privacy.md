@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "سياسة خصوصية Locket"
+title: "سياسة خصوصية Accent"
 lang: "ar-SA"
 text_direction: rtl
 permalink: /ar-SA/privacy/
 ---
 
-# سياسة خصوصية Locket
+# سياسة خصوصية Accent
 
 تاريخ السريان: 8 أكتوبر 2026. آخر تحديث: 10 أكتوبر 2026.
 
-يصف Reo Morishige (森重 玲生، "المطور") أدناه كيفية معالجة المعلومات في Locket ("التطبيق").
+يصف Reo Morishige (森重 玲生، "المطور") أدناه كيفية معالجة المعلومات في Accent ("التطبيق").
 
 ## 1. نظرة عامة
 

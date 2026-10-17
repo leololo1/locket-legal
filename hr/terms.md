@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Uvjeti korištenja aplikacije Locket"
+title: "Uvjeti korištenja aplikacije Accent"
 lang: "hr"
 text_direction: ltr
 permalink: /hr/terms/
 ---
 
-# Uvjeti korištenja aplikacije Locket
+# Uvjeti korištenja aplikacije Accent
 
 Na snazi: 8. listopada 2026. Zadnje ažuriranje: 10. listopada 2026.
 
-Ovi uvjeti uređuju korištenje aplikacije Locket („Aplikacija”), koju pruža Reo Morishige (森重 玲生, „Razvojni programer”). Pročitajte ih prije korištenja aplikacije.
+Ovi uvjeti uređuju korištenje aplikacije Accent („Aplikacija”), koju pruža Reo Morishige (森重 玲生, „Razvojni programer”). Pročitajte ih prije korištenja aplikacije.
 
 ## 1. Značajke i zahtjevi
 

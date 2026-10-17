@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket गोपनीयता धोरण"
+title: "Accent गोपनीयता धोरण"
 lang: "mr-IN"
 text_direction: ltr
 permalink: /mr-IN/privacy/
 ---
 
-# Locket गोपनीयता धोरण
+# Accent गोपनीयता धोरण
 
 प्रभावी: ऑक्टोबर 8, 2026. शेवटचे अपडेट: 10 ऑक्टोबर 2026.
 
-Reo Morishige (森重 玲生, "डेव्हलपर") Locket ("ॲप") मध्ये माहिती कशी हाताळली जाते याचे खाली वर्णन करतात.
+Reo Morishige (森重 玲生, "डेव्हलपर") Accent ("ॲप") मध्ये माहिती कशी हाताळली जाते याचे खाली वर्णन करतात.
 
 ## 1. विहंगावलोकन
 

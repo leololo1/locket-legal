@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket — Política de Privacidade"
+title: "Accent — Política de Privacidade"
 lang: "pt-BR"
 text_direction: ltr
 permalink: /pt-BR/privacy/
 ---
 
-# Locket — Política de Privacidade
+# Accent — Política de Privacidade
 
 Em vigor: 8 de outubro de 2026. Última atualização: 10 de outubro de 2026.
 
-Reo Morishige (森重 玲生, o "Desenvolvedor") descreve abaixo como as informações são tratadas no Locket (o "Aplicativo").
+Reo Morishige (森重 玲生, o "Desenvolvedor") descreve abaixo como as informações são tratadas no Accent (o "Aplicativo").
 
 ## 1. Visão geral
 

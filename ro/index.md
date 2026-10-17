@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Suport & informații legale"
+title: "Accent — Suport & informații legale"
 lang: "ro"
 text_direction: ltr
 permalink: /ro/
 ---
 
-# Locket — Suport & informații legale
+# Accent — Suport & informații legale
 
 Creați widgeturi pentru ecranul principal și blocarea ecranului din decupaje foto și text, chiar pe dispozitivul dvs.
 

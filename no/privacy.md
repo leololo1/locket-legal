@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Retningslinjer for personvern"
+title: "Accent Retningslinjer for personvern"
 lang: "no"
 text_direction: ltr
 permalink: /no/privacy/
 ---
 
-# Locket Retningslinjer for personvern
+# Accent Retningslinjer for personvern
 
 Gjelder: 8. oktober 2026. Sist oppdatert: 10. oktober 2026.
 
-Reo Morishige (森重 玲生, "Utvikleren") beskriver nedenfor hvordan informasjon håndteres i Locket ("Appen").
+Reo Morishige (森重 玲生, "Utvikleren") beskriver nedenfor hvordan informasjon håndteres i Accent ("Appen").
 
 ## 1. Oversikt
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Dukungan & Legal"
+title: "Accent — Dukungan & Legal"
 lang: "id"
 text_direction: ltr
 permalink: /id/
 ---
 
-# Locket — Dukungan & Legal
+# Accent — Dukungan & Legal
 
 Buat widget layar beranda dan kunci layar dari potongan foto dan teks, langsung di perangkat Anda.
 

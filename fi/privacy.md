@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket-sovelluksen tietosuojakäytäntö"
+title: "Accent-sovelluksen tietosuojakäytäntö"
 lang: "fi"
 text_direction: ltr
 permalink: /fi/privacy/
 ---
 
-# Locket-sovelluksen tietosuojakäytäntö
+# Accent-sovelluksen tietosuojakäytäntö
 
 Voimassa: 8. lokakuuta 2026. Päivitetty viimeksi: 10. lokakuuta 2026.
 
-Reo Morishige (森重 玲生, ‘kehittäjä’) kuvaa alla, miten tietoja käsitellään Locket-sovelluksessa (‘sovellus’).
+Reo Morishige (森重 玲生, ‘kehittäjä’) kuvaa alla, miten tietoja käsitellään Accent-sovelluksessa (‘sovellus’).
 
 ## 1. Yleiskatsaus
 

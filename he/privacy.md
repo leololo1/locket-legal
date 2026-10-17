@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket מדיניות פרטיות"
+title: "Accent מדיניות פרטיות"
 lang: "he"
 text_direction: rtl
 permalink: /he/privacy/
 ---
 
-# Locket מדיניות פרטיות
+# Accent מדיניות פרטיות
 
 בתוקף: 8 באוקטובר 2026. עדכון אחרון: 10 באוקטובר 2026.
 
-Reo Morishige (森重 玲生, "המפתח") מתאר להלן כיצד מטופל מידע ב-Locket ("האפליקציה").
+Reo Morishige (森重 玲生, "המפתח") מתאר להלן כיצד מטופל מידע ב-Accent ("האפליקציה").
 
 ## 1. סקירה כללית
 

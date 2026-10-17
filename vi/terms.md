@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket — Điều khoản sử dụng"
+title: "Accent — Điều khoản sử dụng"
 lang: "vi"
 text_direction: ltr
 permalink: /vi/terms/
 ---
 
-# Locket — Điều khoản sử dụng
+# Accent — Điều khoản sử dụng
 
 Có hiệu lực: ngày 8 tháng 10 năm 2026. Cập nhật lần cuối: ngày 10 tháng 10 năm 2026.
 
-Các điều khoản này đặt ra các điều kiện để sử dụng Locket ("Ứng dụng"), được cung cấp bởi Reo Morishige (森重 玲生, "Nhà phát triển"). Vui lòng đọc chúng trước khi sử dụng Ứng dụng.
+Các điều khoản này đặt ra các điều kiện để sử dụng Accent ("Ứng dụng"), được cung cấp bởi Reo Morishige (森重 玲生, "Nhà phát triển"). Vui lòng đọc chúng trước khi sử dụng Ứng dụng.
 
 ## 1. Tính năng và yêu cầu
 

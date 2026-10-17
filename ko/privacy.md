@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket 개인 정보 보호 정책"
+title: "Accent 개인 정보 보호 정책"
 lang: "ko"
 text_direction: ltr
 permalink: /ko/privacy/
 ---
 
-# Locket 개인 정보 보호 정책
+# Accent 개인 정보 보호 정책
 
 발효일: 2026년 10월 8일. 최종 업데이트: 2026년 10월 10일.
 
-Reo Morishige(森重 玲生, "개발자")는 Locket("앱")에서 정보가 처리되는 방법을 아래에 설명합니다.
+Reo Morishige(森重 玲生, "개발자")는 Accent("앱")에서 정보가 처리되는 방법을 아래에 설명합니다.
 
 ## 1. 개요
 

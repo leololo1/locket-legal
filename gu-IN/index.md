@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — આધાર અને કાનૂની"
+title: "Accent — આધાર અને કાનૂની"
 lang: "gu-IN"
 text_direction: ltr
 permalink: /gu-IN/
 ---
 
-# Locket — આધાર અને કાનૂની
+# Accent — આધાર અને કાનૂની
 
 તમારા ઉપકરણ પર જ ફોટો કટઆઉટ્સ અને ટેક્સ્ટમાંથી હોમ સ્ક્રીન અને લૉક સ્ક્રીન વિજેટ્સ બનાવો.
 

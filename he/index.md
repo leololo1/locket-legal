@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — תמיכה ומידע משפטי"
+title: "Accent — תמיכה ומידע משפטי"
 lang: "he"
 text_direction: rtl
 permalink: /he/
 ---
 
-# Locket — תמיכה ומידע משפטי
+# Accent — תמיכה ומידע משפטי
 
 צור ווידג'טים למסך הבית ולמסך הנעילה מגזרות תמונות וטקסט, ישירות במכשיר שלך.
 

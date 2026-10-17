@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket-sovelluksen käyttöehdot"
+title: "Accent-sovelluksen käyttöehdot"
 lang: "fi"
 text_direction: ltr
 permalink: /fi/terms/
 ---
 
-# Locket-sovelluksen käyttöehdot
+# Accent-sovelluksen käyttöehdot
 
 Voimassa: 8. lokakuuta 2026. Päivitetty viimeksi: 10. lokakuuta 2026.
 
-Nämä ehdot koskevat Reo Morishigen (森重 玲生, ‘kehittäjä’) tarjoaman Locket-sovelluksen (‘sovellus’) käyttöä. Lue ehdot ennen sovelluksen käyttöä.
+Nämä ehdot koskevat Reo Morishigen (森重 玲生, ‘kehittäjä’) tarjoaman Accent-sovelluksen (‘sovellus’) käyttöä. Lue ehdot ennen sovelluksen käyttöä.
 
 ## 1. Ominaisuudet ja vaatimukset
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Sokongan & Undang-undang"
+title: "Accent — Sokongan & Undang-undang"
 lang: "ms"
 text_direction: ltr
 permalink: /ms/
 ---
 
-# Locket — Sokongan & Undang-undang
+# Accent — Sokongan & Undang-undang
 
 Cipta widget Skrin Utama dan Skrin Kunci daripada potongan foto dan teks, terus pada peranti anda.
 

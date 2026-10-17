@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Nutzungsbedingungen"
+title: "Accent Nutzungsbedingungen"
 lang: "de-DE"
 text_direction: ltr
 permalink: /de-DE/terms/
 ---
 
-# Locket Nutzungsbedingungen
+# Accent Nutzungsbedingungen
 
 Gültig seit: 8. Oktober 2026. Zuletzt aktualisiert: 10. Oktober 2026.
 
-Diese Bedingungen regeln die Nutzung von Locket (der „App“), bereitgestellt von Reo Morishige (森重 玲生, der „Entwickler“). Bitte lies sie vor der Nutzung der App.
+Diese Bedingungen regeln die Nutzung von Accent (der „App“), bereitgestellt von Reo Morishige (森重 玲生, der „Entwickler“). Bitte lies sie vor der Nutzung der App.
 
 ## 1. Funktionen und Voraussetzungen
 

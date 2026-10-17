@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Condiciones de uso"
+title: "Accent Condiciones de uso"
 lang: "es-MX"
 text_direction: ltr
 permalink: /es-MX/terms/
 ---
 
-# Locket Condiciones de uso
+# Accent Condiciones de uso
 
 En vigor: 8 de octubre de 2026. Última actualización: 10 de octubre de 2026.
 
-Estos términos establecen las condiciones para el uso de Locket (la "Aplicación"), proporcionada por Reo Morishige (森重 玲生, el "Desarrollador"). Léalas antes de utilizar la aplicación.
+Estos términos establecen las condiciones para el uso de Accent (la "Aplicación"), proporcionada por Reo Morishige (森重 玲生, el "Desarrollador"). Léalas antes de utilizar la aplicación.
 
 ## 1. Características y requisitos
 

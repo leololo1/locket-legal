@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Destek ve Yasal"
+title: "Accent — Destek ve Yasal"
 lang: "tr"
 text_direction: ltr
 permalink: /tr/
 ---
 
-# Locket — Destek ve Yasal
+# Accent — Destek ve Yasal
 
 Fotoğraf kesiklerinden ve metinlerden doğrudan cihazınızda ana ekran ve kilit ekranı araç takımları oluşturun.
 

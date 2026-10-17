@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Syarat Penggunaan"
+title: "Accent Syarat Penggunaan"
 lang: "ms"
 text_direction: ltr
 permalink: /ms/terms/
 ---
 
-# Locket Syarat Penggunaan
+# Accent Syarat Penggunaan
 
 Berkuatkuasa: 8 Oktober 2026. Kemas kini terakhir: 10 Oktober 2026.
 
-Terma ini menetapkan syarat untuk menggunakan Locket ("Apl"), yang disediakan oleh Reo Morishige (森重 玲生, "Pembangun"). Sila baca syarat ini sebelum menggunakan Apl.
+Terma ini menetapkan syarat untuk menggunakan Accent ("Apl"), yang disediakan oleh Reo Morishige (森重 玲生, "Pembangun"). Sila baca syarat ini sebelum menggunakan Apl.
 
 ## 1. Ciri dan keperluan
 

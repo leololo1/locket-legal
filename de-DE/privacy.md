@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Datenschutzerklärung"
+title: "Accent Datenschutzerklärung"
 lang: "de-DE"
 text_direction: ltr
 permalink: /de-DE/privacy/
 ---
 
-# Locket Datenschutzerklärung
+# Accent Datenschutzerklärung
 
 Gültig seit: 8. Oktober 2026. Zuletzt aktualisiert: 10. Oktober 2026.
 
-Reo Morishige (森重 玲生, der „Entwickler“) beschreibt nachfolgend den Umgang mit Informationen in Locket (der „App“).
+Reo Morishige (森重 玲生, der „Entwickler“) beschreibt nachfolgend den Umgang mit Informationen in Accent (der „App“).
 
 ## 1. Überblick
 

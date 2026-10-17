@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Pravila o privatnosti aplikacije Locket"
+title: "Pravila o privatnosti aplikacije Accent"
 lang: "hr"
 text_direction: ltr
 permalink: /hr/privacy/
 ---
 
-# Pravila o privatnosti aplikacije Locket
+# Pravila o privatnosti aplikacije Accent
 
 Na snazi: 8. listopada 2026. Zadnje ažuriranje: 10. listopada 2026.
 
-Reo Morishige (森重 玲生, „Razvojni programer”) u nastavku opisuje kako se obrađuju informacije u aplikaciji Locket („Aplikacija”).
+Reo Morishige (森重 玲生, „Razvojni programer”) u nastavku opisuje kako se obrađuju informacije u aplikaciji Accent („Aplikacija”).
 
 ## 1. Pregled
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket 이용약관"
+title: "Accent 이용약관"
 lang: "ko"
 text_direction: ltr
 permalink: /ko/terms/
 ---
 
-# Locket 이용약관
+# Accent 이용약관
 
 발효일: 2026년 10월 8일. 최종 업데이트: 2026년 10월 10일.
 
-본 약관은 Reo Morishige(森重 玲生, '개발자')가 제공하는 Locket('앱') 사용 조건을 명시합니다. 앱을 사용하기 전에 읽어보시기 바랍니다.
+본 약관은 Reo Morishige(森重 玲生, '개발자')가 제공하는 Accent('앱') 사용 조건을 명시합니다. 앱을 사용하기 전에 읽어보시기 바랍니다.
 
 ## 1. 기능 및 요구 사항
 

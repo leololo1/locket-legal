@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket गोपनीयता नीति"
+title: "Accent गोपनीयता नीति"
 lang: "hi"
 text_direction: ltr
 permalink: /hi/privacy/
 ---
 
-# Locket गोपनीयता नीति
+# Accent गोपनीयता नीति
 
 प्रभावी: 8 अक्टूबर, 2026। अंतिम अद्यतन: 10 अक्टूबर, 2026।
 
-Reo Morishige (森重 玲生, "डेवलपर") नीचे वर्णन करते हैं कि Locket ("ऐप") में जानकारी कैसे संभाली जाती है।
+Reo Morishige (森重 玲生, "डेवलपर") नीचे वर्णन करते हैं कि Accent ("ऐप") में जानकारी कैसे संभाली जाती है।
 
 ## 1. अवलोकन
 

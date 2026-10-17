@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Condicions d'ús de Locket"
+title: "Condicions d'ús de Accent"
 lang: "ca"
 text_direction: ltr
 permalink: /ca/terms/
 ---
 
-# Condicions d'ús de Locket
+# Condicions d'ús de Accent
 
 En vigor: 8 d'octubre de 2026. Última actualització: 10 d'octubre de 2026.
 
-Aquests termes estableixen les condicions per utilitzar Locket (l'"Aplicació"), proporcionades per Reo Morishige (森重 玲生, el "Desenvolupador"). Si us plau, llegiu-los abans d'utilitzar l'aplicació.
+Aquests termes estableixen les condicions per utilitzar Accent (l'"Aplicació"), proporcionades per Reo Morishige (森重 玲生, el "Desenvolupador"). Si us plau, llegiu-los abans d'utilitzar l'aplicació.
 
 ## 1. Característiques i requisits
 

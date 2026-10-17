@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Locket — Support & Legal
+title: Accent — Support & Legal
 lang: "en"
 permalink: /en/
 ---
 
-# Locket — Support & Legal
+# Accent — Support & Legal
 
 Create home screen and lock screen widgets from photo cutouts and text, right on your device.
 

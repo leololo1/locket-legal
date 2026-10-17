@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Privatlivspolitik for Locket"
+title: "Privatlivspolitik for Accent"
 lang: "da"
 text_direction: ltr
 permalink: /da/privacy/
 ---
 
-# Privatlivspolitik for Locket
+# Privatlivspolitik for Accent
 
 Gælder: 8. oktober 2026. Sidst opdateret: 10. oktober 2026.
 
-Reo Morishige (森重 玲生, "Udvikleren") beskriver nedenfor, hvordan information håndteres i Locket ("Appen").
+Reo Morishige (森重 玲生, "Udvikleren") beskriver nedenfor, hvordan information håndteres i Accent ("Appen").
 
 ## 1. Oversigt
 

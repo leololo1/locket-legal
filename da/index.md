@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Support og juridiske oplysninger"
+title: "Accent — Support og juridiske oplysninger"
 lang: "da"
 text_direction: ltr
 permalink: /da/
 ---
 
-# Locket — Support og juridiske oplysninger
+# Accent — Support og juridiske oplysninger
 
 Opret widgets til hjemmeskærmen og låseskærmen med udklippede motiver fra fotos og tekst direkte på din enhed.
 

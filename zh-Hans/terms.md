@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket 使用条款"
+title: "Accent 使用条款"
 lang: "zh-Hans"
 text_direction: ltr
 permalink: /zh-Hans/terms/
 ---
 
-# Locket 使用条款
+# Accent 使用条款
 
 生效日期：2026年10月8日。最后更新：2026年10月10日。
 
-这些条款规定了使用由Reo Morishige（森重 玲生，“开发者”）提供的Locket（“应用程序”）的条件。请在使用该应用程序之前阅读它们。
+这些条款规定了使用由Reo Morishige（森重 玲生，“开发者”）提供的Accent（“应用程序”）的条件。请在使用该应用程序之前阅读它们。
 
 ## 1.特点及要求
 

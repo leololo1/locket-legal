@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Pogoji uporabe"
+title: "Accent Pogoji uporabe"
 lang: "sl-SI"
 text_direction: ltr
 permalink: /sl-SI/terms/
 ---
 
-# Locket Pogoji uporabe
+# Accent Pogoji uporabe
 
 Veljavno: 8. oktober 2026. Zadnja posodobitev: 10. oktober 2026.
 
-Ti pogoji določajo pogoje za uporabo Locket (»aplikacija«), ki jo zagotavlja Reo Morishige (森重 玲生, »razvijalec«). Pred uporabo aplikacije jih preberite.
+Ti pogoji določajo pogoje za uporabo Accent (»aplikacija«), ki jo zagotavlja Reo Morishige (森重 玲生, »razvijalec«). Pred uporabo aplikacije jih preberite.
 
 ## 1. Funkcije in zahteve
 

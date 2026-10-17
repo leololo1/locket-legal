@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Política de privadesa de Locket"
+title: "Política de privadesa de Accent"
 lang: "ca"
 text_direction: ltr
 permalink: /ca/privacy/
 ---
 
-# Política de privadesa de Locket
+# Política de privadesa de Accent
 
 En vigor: 8 d'octubre de 2026. Última actualització: 10 d'octubre de 2026.
 
-Reo Morishige (森重 玲生, el "Desenvolupador") descriu a continuació com es gestiona la informació a Locket (l'"Aplicació").
+Reo Morishige (森重 玲生, el "Desenvolupador") descriu a continuació com es gestiona la informació a Accent (l'"Aplicació").
 
 ## 1. Visió general
 

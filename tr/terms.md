@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Kullanım Koşulları"
+title: "Accent Kullanım Koşulları"
 lang: "tr"
 text_direction: ltr
 permalink: /tr/terms/
 ---
 
-# Locket Kullanım Koşulları
+# Accent Kullanım Koşulları
 
 Geçerlilik Tarihi: 8 Ekim 2026. Son güncelleme tarihi: 10 Ekim 2026.
 
-Bu şartlar, Reo Morishige (森重 玲生, "Geliştirici") tarafından sağlanan Locket'nin ("Uygulama") kullanımına ilişkin koşulları belirler. Lütfen Uygulamayı kullanmadan önce bunları okuyun.
+Bu şartlar, Reo Morishige (森重 玲生, "Geliştirici") tarafından sağlanan Accent'nin ("Uygulama") kullanımına ilişkin koşulları belirler. Lütfen Uygulamayı kullanmadan önce bunları okuyun.
 
 ## 1. Özellikler ve gereksinimler
 

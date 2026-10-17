@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Assistance et mentions légales"
+title: "Accent — Assistance et mentions légales"
 lang: "fr-CA"
 text_direction: ltr
 permalink: /fr-CA/
 ---
 
-# Locket — Assistance et mentions légales
+# Accent — Assistance et mentions légales
 
 Créez des widgets pour vos écrans d’accueil et verrouillé à partir de photos détourées et de texte, directement sur votre appareil.
 

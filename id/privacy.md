@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Kebijakan Privasi"
+title: "Accent Kebijakan Privasi"
 lang: "id"
 text_direction: ltr
 permalink: /id/privacy/
 ---
 
-# Locket Kebijakan Privasi
+# Accent Kebijakan Privasi
 
 Berlaku: 8 Oktober 2026. Terakhir diperbarui: 10 Oktober 2026.
 
-Reo Morishige (森重 玲生, "Pengembang") menjelaskan di bawah ini bagaimana informasi ditangani di Locket ("Aplikasi").
+Reo Morishige (森重 玲生, "Pengembang") menjelaskan di bawah ini bagaimana informasi ditangani di Accent ("Aplikasi").
 
 ## 1. Ikhtisar
 

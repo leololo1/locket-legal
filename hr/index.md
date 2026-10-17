@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Podrška i pravne informacije"
+title: "Accent — Podrška i pravne informacije"
 lang: "hr"
 text_direction: ltr
 permalink: /hr/
 ---
 
-# Locket — Podrška i pravne informacije
+# Accent — Podrška i pravne informacije
 
 Izradite widgete za početni i zaključani zaslon od izrezanih fotografija i teksta, izravno na svom uređaju.
 

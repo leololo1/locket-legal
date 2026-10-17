@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Pravilnik o zasebnosti"
+title: "Accent Pravilnik o zasebnosti"
 lang: "sl-SI"
 text_direction: ltr
 permalink: /sl-SI/privacy/
 ---
 
-# Locket Pravilnik o zasebnosti
+# Accent Pravilnik o zasebnosti
 
 Veljavno: 8. oktober 2026. Zadnja posodobitev: 10. oktober 2026.
 
-Reo Morishige (森重 玲生, »razvijalec«) spodaj opisuje, kako se v Locket (»aplikacija«) obravnavajo informacije.
+Reo Morishige (森重 玲生, »razvijalec«) spodaj opisuje, kako se v Accent (»aplikacija«) obravnavajo informacije.
 
 ## 1. Pregled
 

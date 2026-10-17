@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Ketentuan Penggunaan"
+title: "Accent Ketentuan Penggunaan"
 lang: "id"
 text_direction: ltr
 permalink: /id/terms/
 ---
 
-# Locket Ketentuan Penggunaan
+# Accent Ketentuan Penggunaan
 
 Berlaku: 8 Oktober 2026. Terakhir diperbarui: 10 Oktober 2026.
 
-Ketentuan ini menetapkan ketentuan untuk menggunakan Locket ("Aplikasi"), yang disediakan oleh Reo Morishige (森重 玲生, "Pengembang"). Harap membacanya sebelum menggunakan Aplikasi.
+Ketentuan ini menetapkan ketentuan untuk menggunakan Accent ("Aplikasi"), yang disediakan oleh Reo Morishige (森重 玲生, "Pengembang"). Harap membacanya sebelum menggunakan Aplikasi.
 
 ## 1. Fitur dan persyaratan
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — 지원 및 법적 고지"
+title: "Accent — 지원 및 법적 고지"
 lang: "ko"
 text_direction: ltr
 permalink: /ko/
 ---
 
-# Locket — 지원 및 법적 고지
+# Accent — 지원 및 법적 고지
 
 장치에서 바로 사진 컷아웃과 텍스트로 홈 화면과 잠금 화면 위젯을 만드세요.
 

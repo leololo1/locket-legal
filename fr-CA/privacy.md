@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Politique de confidentialité de Locket"
+title: "Politique de confidentialité de Accent"
 lang: "fr-CA"
 text_direction: ltr
 permalink: /fr-CA/privacy/
 ---
 
-# Politique de confidentialité de Locket
+# Politique de confidentialité de Accent
 
 Entrée en vigueur : 8 octobre 2026. Dernière mise à jour : 10 octobre 2026.
 
-Reo Morishige (森重 玲生, le « Développeur ») décrit ci-dessous le traitement des informations dans Locket (l’« App »).
+Reo Morishige (森重 玲生, le « Développeur ») décrit ci-dessous le traitement des informations dans Accent (l’« App »).
 
 ## 1. Présentation
 

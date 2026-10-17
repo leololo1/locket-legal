@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — Podpora a právne informácie"
+title: "Accent — Podpora a právne informácie"
 lang: "sk"
 text_direction: ltr
 permalink: /sk/
 ---
 
-# Locket — Podpora a právne informácie
+# Accent — Podpora a právne informácie
 
 Vytvorte si miniaplikácie na domovskej obrazovke a uzamknutej obrazovke z výrezov fotografií a textu priamo na vašom zariadení.
 

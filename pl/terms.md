@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Locket Warunki użytkowania"
+title: "Accent Warunki użytkowania"
 lang: "pl"
 text_direction: ltr
 permalink: /pl/terms/
 ---
 
-# Locket Warunki użytkowania
+# Accent Warunki użytkowania
 
 Obowiązuje od: 8 października 2026 r. Ostatnia aktualizacja: 10 października 2026 r.
 
-Niniejsze warunki określają warunki korzystania z Locket („Aplikacja”), dostarczanej przez Reo Morishige (森重 玲生, „Programista”). Prosimy o zapoznanie się z nimi przed skorzystaniem z Aplikacji.
+Niniejsze warunki określają warunki korzystania z Accent („Aplikacja”), dostarczanej przez Reo Morishige (森重 玲生, „Programista”). Prosimy o zapoznanie się z nimi przed skorzystaniem z Aplikacji.
 
 ## 1. Funkcje i wymagania
 

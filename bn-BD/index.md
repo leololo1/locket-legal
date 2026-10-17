@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Locket — সহায়তা ও আইনি তথ্য"
+title: "Accent — সহায়তা ও আইনি তথ্য"
 lang: "bn-BD"
 text_direction: ltr
 permalink: /bn-BD/
 ---
 
-# Locket — সহায়তা ও আইনি তথ্য
+# Accent — সহায়তা ও আইনি তথ্য
 
 সরাসরি আপনার ডিভাইসে ফটো কাটআউট এবং টেক্সট থেকে হোম স্ক্রীন এবং লক স্ক্রীন উইজেট তৈরি করুন।
 
